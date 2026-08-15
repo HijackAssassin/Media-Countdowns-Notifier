@@ -14,4 +14,4 @@
 //
 //  Bump this and CMakeLists follows; nothing else needs changing.
 // =============================================================================
-#define MC_NOTIFIER_VERSION "5.4.26"
+#define MC_NOTIFIER_VERSION "5.4.27"
